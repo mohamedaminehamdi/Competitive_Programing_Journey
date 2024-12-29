@@ -38,14 +38,6 @@ I primarily use the following tools and languages in my solutions:
 
 ---
 
-## 🌟 Highlights
-
-- **Graph Algorithms:** BFS, DFS, Dijkstra, Kruskal, Prim, and more.
-- **Dynamic Programming:** Knapsack, Longest Common Subsequence, Matrix Chain Multiplication, etc.
-- **Data Structures:** Segment Trees, Fenwick Trees, Trie, etc.
-
----
-
 ## 🤝 Contributions
 
 This repository is a personal project, but I welcome feedback and suggestions. Feel free to create an issue or submit a pull request if you'd like to contribute or propose improvements.
