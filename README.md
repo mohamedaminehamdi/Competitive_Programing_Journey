@@ -12,11 +12,11 @@ The repository is organized by platform and topic for ease of navigation:
 
 This section contains my solutions to problems from LeetCode, categorized by difficulty:  
 
-- [**Easy**](https://github.com/mohamedaminehamdi/Competitive_Programing_Journey/main/LeetCode/Easy)  
+- [**Easy**](https://github.com/mohamedaminehamdi/Competitive_Programing_Journey/tree/main/LeetCode/Easy) 
 
-- [**Medium**](https://github.com/mohamedaminehamdi/Competitive_Programing_Journey/main/LeetCode/Medium)  
+- [**Medium**](https://github.com/mohamedaminehamdi/Competitive_Programing_Journey/tree/main/LeetCode/Medium)  
 
-- [**Hard**](https://github.com/mohamedaminehamdi/Competitive_Programing_Journey/main/LeetCode/Hard)  
+- [**Hard**](https://github.com/mohamedaminehamdi/Competitive_Programing_Journey/tree/main/LeetCode/Hard)  
 
 ---
 
