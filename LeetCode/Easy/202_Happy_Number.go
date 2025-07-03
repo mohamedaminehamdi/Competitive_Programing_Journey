@@ -19,3 +19,7 @@ func isHappy(n int) bool {
         seen[n] = true
         n = digitSumSquare(n)
     }
+
+
+//space complexity is O(n)
+//time complexity is O(n)
